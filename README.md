@@ -8,10 +8,13 @@ aomi 文件是模仿了澳門外賣APP "澳觅"的IOS APP
 (由於網絡問題圖片加載較慢,許多空白處應有圖片)
 
 外賣功能展示
-![image](https://github.com/timmy338/react_native/blob/master/gif_show/Takeaway.gif?raw=true)
+
+![image](https://github.com/timmy338/react_native/blob/master/gif_show/Takeaway.gif?raw=true&width=10)
 
 優惠介面功能展示
+
 ![image](https://github.com/timmy338/react_native/blob/master/gif_show/discount.gif?raw=true)
 
 主頁面功能展示
-![image](https://github.com/timmy338/react_native/blob/master/gif_show/mianMenu.gif?raw=true)
+
+<img src="https://github.com/timmy338/react_native/blob/master/gif_show/mianMenu.gif?raw=true" width="100px">
